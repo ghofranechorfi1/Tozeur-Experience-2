@@ -1,4 +1,4 @@
-import { Translations, Locale } from "./types";
+﻿import { Translations, Locale } from "./types";
 
 export const translations: Record<Locale, Translations> = {
   // ================= ENGLISH =================
@@ -89,7 +89,7 @@ export const translations: Record<Locale, Translations> = {
           description:
             "Explore beautiful palm groves, natural oases, mountain landscapes, and hidden gems across southern Tunisia including Chebika, Tamerza, and Midès.",
           iconName: "Palmtree",
-          image: "/images/palmeraie.jpg",
+          image: "/images/services-oasis-mountain.jpg",
           alt: "Scenic landscape of Tozeur palm groves and mountain oasis canyon at Chebika.",
           features: [
             "Chebika & Tamerza mountain waterfalls",
@@ -106,7 +106,7 @@ export const translations: Record<Locale, Translations> = {
           description:
             "Experience the Sahara through unforgettable desert excursions, sunset 4x4 safaris across rolling dunes, and atmospheric Saharan night camps.",
           iconName: "Sun",
-          image: "/images/desert-4x4.jpg",
+          image: "/images/services-desert-adventures.jpg",
           alt: "Four-by-four desert safari expedition vehicle traversing sweeping golden Sahara sand dunes.",
           features: [
             "4x4 dune bashing & Ong Jmel expedition",
@@ -123,7 +123,7 @@ export const translations: Record<Locale, Translations> = {
           description:
             "Discover traditional brick architecture, historic Medina alleyways, artisanal pottery, date weaving, and the rich thousand-year heritage of Tozeur.",
           iconName: "Landmark",
-          image: "/images/medina-culture.jpg",
+          image: "/images/services-culture-heritage.jpg",
           alt: "Close-up architectural detail of historical Tozeur Medina Ouled El Hadef with geometric clay brick patterns.",
           features: [
             "Guided tour of Ouled El Hadef 14th-century medina",
@@ -140,7 +140,7 @@ export const translations: Record<Locale, Translations> = {
           description:
             "Explore breathtaking landscapes through outdoor adventures, guided hiking trails, rocky canyon trekking, and invigorating oasis cycling tours.",
           iconName: "Bike",
-          image: "/images/trekking-cycling.jpg",
+          image: "/images/services-trekking-cycling.jpg",
           alt: "Adventurous travelers trekking across desert hills and cycling along palm paths.",
           features: [
             "Palmeraie bike rentals & guided routes",
@@ -157,7 +157,7 @@ export const translations: Record<Locale, Translations> = {
           description:
             "Enjoy personalized group experiences, corporate retreats, cultural celebrations, private romantic dinners, and tailored activities specifically organized for you.",
           iconName: "Sparkles",
-          image: "/images/events-banquet.jpg",
+          image: "/images/services-events-custom.jpg",
           alt: "Exclusive luxury candlelit desert banquet setup under a starry sky.",
           features: [
             "Bespoke VIP Saharan candlelit dinners",
@@ -174,7 +174,7 @@ export const translations: Record<Locale, Translations> = {
           description:
             "Spend a magical Saharan night in a luxury nomad bivouac beneath the star-strewn desert sky, with campfire Berber music and storytelling.",
           iconName: "Moon",
-          image: "/images/gallery-sunset.jpg",
+          image: "/images/services-stargazing-bivouac.jpg",
           alt: "Romantic Saharan desert luxury camp at dusk with tents and glowing lanterns.",
           features: [
             "Private luxury Bedouin tented encampment",
@@ -191,7 +191,7 @@ export const translations: Record<Locale, Translations> = {
           description:
             "Immerse in ancient culinary heritage: harvest Deglet Nour dates, discover oasis irrigation, and enjoy authentic Berber farm-to-table lunch.",
           iconName: "Apple",
-          image: "/images/palmeraie.jpg",
+          image: "/images/services-oasis-gastronomy.jpg",
           alt: "Lush Tozeur date palm grove with artisanal culinary spread and fresh dates.",
           features: [
             "Deglet Nour date harvest & nectar tasting",
@@ -561,7 +561,7 @@ export const translations: Record<Locale, Translations> = {
           description:
             "Explorez les magnifiques palmeraies, les oasis naturelles et les canyons spectaculaires du sud tunisien : Chebika, Tamerza et Midès.",
           iconName: "Palmtree",
-          image: "/images/palmeraie.jpg",
+          image: "/images/services-oasis-mountain.jpg",
           alt: "Paysage de la palmeraie de Tozeur et des oasis de montagne.",
           features: [
             "Cascades et sources d'eau de Chebika & Tamerza",
@@ -578,7 +578,7 @@ export const translations: Record<Locale, Translations> = {
           description:
             "Vivez le Sahara à travers des safaris en 4x4 sur les dunes dorées d'Ong Jmel, des couchers de soleil féeriques et des bivouacs sous les étoiles.",
           iconName: "Sun",
-          image: "/images/desert-4x4.jpg",
+          image: "/images/services-desert-adventures.jpg",
           alt: "Véhicule 4x4 traversant les dunes dorées du Sahara à Tozeur.",
           features: [
             "Frissons en 4x4 dans les dunes & site d'Ong Jmel",
@@ -595,7 +595,7 @@ export const translations: Record<Locale, Translations> = {
           description:
             "Découvrez l'architecture singulière en briques d'argile d'Ouled El Hadef, les ruelles ombragées, la poterie et le tissage artisanal.",
           iconName: "Landmark",
-          image: "/images/medina-culture.jpg",
+          image: "/images/services-culture-heritage.jpg",
           alt: "Façade traditionnelle en briques dans la médina de Tozeur.",
           features: [
             "Visite guidée de la médina historique du XIVe siècle",
@@ -612,7 +612,7 @@ export const translations: Record<Locale, Translations> = {
           description:
             "Parcourez des paysages à couper le souffle à pied ou à vélo : sentiers de la palmeraie, gorges rocheuses et mirages du Chott el Djerid.",
           iconName: "Bike",
-          image: "/images/trekking-cycling.jpg",
+          image: "/images/services-trekking-cycling.jpg",
           alt: "Randonneurs et cyclistes dans les sentiers de l'oasis de Tozeur.",
           features: [
             "Circuits vélo guidés au cœur de la palmeraie",
@@ -629,7 +629,7 @@ export const translations: Record<Locale, Translations> = {
           description:
             "Banquets privés aux chandelles dans les dunes, retraites professionnelles, célébrations uniques et séjours entièrement personnalisés.",
           iconName: "Sparkles",
-          image: "/images/events-banquet.jpg",
+          image: "/images/services-events-custom.jpg",
           alt: "Banquet de luxe sous les étoiles dans les dunes de Tozeur.",
           features: [
             "Dîners VIP raffinés aux chandelles dans le désert",
@@ -646,7 +646,7 @@ export const translations: Record<Locale, Translations> = {
           description:
             "Passez une nuit magique sous l'un des ciels les plus purs d'Afrique, bercé par les contes berbères et le chant du feu de camp.",
           iconName: "Moon",
-          image: "/images/gallery-sunset.jpg",
+          image: "/images/services-stargazing-bivouac.jpg",
           alt: "Campement saharien au crépuscule avec tentes et lanternes.",
           features: [
             "Tentes nomades de prestige avec literie soignée",
@@ -663,7 +663,7 @@ export const translations: Record<Locale, Translations> = {
           description:
             "Récoltez les dattes Deglet Nour, découvrez l'irrigation traditionnelle et savourez un repas berbère de la ferme à la table.",
           iconName: "Apple",
-          image: "/images/palmeraie.jpg",
+          image: "/images/services-oasis-gastronomy.jpg",
           alt: "Palmeraie de Tozeur avec table garnie de spécialités culinaires.",
           features: [
             "Dégustation comparative de dattes et sirop de palmier",
@@ -1029,7 +1029,7 @@ export const translations: Record<Locale, Translations> = {
           description:
             "استكشف واحات النخيل الغناء والينابيع الطبيعية وجبال الشبيكة وتمغزة وميداس الساحرة في الجنوب التونسي.",
           iconName: "Palmtree",
-          image: "/images/palmeraie.jpg",
+          image: "/images/services-oasis-mountain.jpg",
           alt: "منظر طبيعي لواحات توزر وجبال الشبيكة.",
           features: [
             "شلالات وينابيع جبال الشبيكة وتمغزة الطبيعية",
@@ -1046,7 +1046,7 @@ export const translations: Record<Locale, Translations> = {
           description:
             "عش إثارة الصحراء عبر رحلات سيارات الدفع الرباعي 4x4 في عنق الجمل، وغروب الشمس الأخاذ، والمخيمات الصحراوية تحت النجوم.",
           iconName: "Sun",
-          image: "/images/desert-4x4.jpg",
+          image: "/images/services-desert-adventures.jpg",
           alt: "سيارة دفع رباعي تجوب كثبان الصحراء الذهبية في توزر.",
           features: [
             "قيادة رباعية مثيرة في الكثبان وموقع عنق الجمل",
@@ -1063,7 +1063,7 @@ export const translations: Record<Locale, Translations> = {
           description:
             "اكتشف العمارة الهندسية بالآجر الصحراوي، وأزقة أولاد الهادف العتيقة، وحرف الخزف وسعف النخيل وتاريخ توزر الألفي.",
           iconName: "Landmark",
-          image: "/images/medina-culture.jpg",
+          image: "/images/services-culture-heritage.jpg",
           alt: "تفاصيل معمارية تاريخية في مدينة توزر القديمة.",
           features: [
             "جولة إرشادية في حي أولاد الهادف العائد للقرن 14",
@@ -1080,7 +1080,7 @@ export const translations: Record<Locale, Translations> = {
           description:
             "استمتع بالطبيعة عبر مسارات المشي وركوب الدراجات في الواحة، وممرات الوديان الجبلية وتأمل سراب شط الجريد.",
           iconName: "Bike",
-          image: "/images/trekking-cycling.jpg",
+          image: "/images/services-trekking-cycling.jpg",
           alt: "مسافورن يمارسون ركوب الدراجات والمشي بين نخيل توزر.",
           features: [
             "تأجير دراجات ومسارات موجهة داخل واحة النخيل",
@@ -1097,7 +1097,7 @@ export const translations: Record<Locale, Translations> = {
           description:
             "مآدب عشاء خاصة على ضوء الشموع بين الكثبان، رحلات عمل مميزة، واحتفالات رومانسية مصممة بأعلى معايير الفخامة.",
           iconName: "Sparkles",
-          image: "/images/events-banquet.jpg",
+          image: "/images/services-events-custom.jpg",
           alt: "عشاء فاخر على ضوء الشموع تحت سماء الصحراء في توزر.",
           features: [
             "عشاء صحراوي حصري وراقٍ على ضوء الشموع والنجوم",
@@ -1114,7 +1114,7 @@ export const translations: Record<Locale, Translations> = {
           description:
             "اقضِ ليلة ساحرة في خيمة بدوية مريحة تحت قبة السماء الصافية مع أنغام الموسيقى البدوية والشاي حول النار.",
           iconName: "Moon",
-          image: "/images/gallery-sunset.jpg",
+          image: "/images/services-stargazing-bivouac.jpg",
           alt: "مخيم صحراوي رومانسي عند الشفق مع خيام وفوانيس.",
           features: [
             "مخيم بدوي فاخر مع أسرّة مريحة وخصوصية تامة",
@@ -1131,7 +1131,7 @@ export const translations: Record<Locale, Translations> = {
           description:
             "عش موسم جني دجلة النور الملكية، وتعرف على نظام الري القديم، وتذوق وجبة غداء بربرية طازجة في قلب الواحة.",
           iconName: "Apple",
-          image: "/images/palmeraie.jpg",
+          image: "/images/services-oasis-gastronomy.jpg",
           alt: "مائدة طعام تقليدية غنية بالتمور في واحة توزر.",
           features: [
             "تذوق أجود أنواع دجلة النور ودبس التمر الطبيعي",
@@ -1492,7 +1492,7 @@ export const translations: Record<Locale, Translations> = {
           description:
             "Erkunden Sie Palmenhaine, natürliche Bergoasen und Schluchten im Süden Tunesiens wie Chebika, Tamerza und Midès.",
           iconName: "Palmtree",
-          image: "/images/palmeraie.jpg",
+          image: "/images/services-oasis-mountain.jpg",
           alt: "Palmenhaine und Schluchtlandschaft in Tozeur Tunesien.",
           features: [
             "Bergwasserfälle von Chebika & Tamerza",
@@ -1509,7 +1509,7 @@ export const translations: Record<Locale, Translations> = {
           description:
             "Erleben Sie die Sahara bei 4x4-Dünenfahrten in Ong Jmel, stimmungsvollen Sonnenuntergängen und Wüstencamps unter dem Sternenhimmel.",
           iconName: "Sun",
-          image: "/images/desert-4x4.jpg",
+          image: "/images/services-desert-adventures.jpg",
           alt: "4x4 Geländewagen in den goldenen Saharadünen von Tozeur.",
           features: [
             "4x4 Dünensafari & Ong Jmel Filmlocations",
@@ -1526,7 +1526,7 @@ export const translations: Record<Locale, Translations> = {
           description:
             "Entdecken Sie die Lehmziegelarchitektur von Ouled El Hadef, historische Gassen, Töpferei und jahrhundertealtes Kulturerbe.",
           iconName: "Landmark",
-          image: "/images/medina-culture.jpg",
+          image: "/images/services-culture-heritage.jpg",
           alt: "Traditionelle Ziegelbauweise in der historischen Medina von Tozeur.",
           features: [
             "Führung durch die Medina aus dem 14. Jahrhundert",
@@ -1543,7 +1543,7 @@ export const translations: Record<Locale, Translations> = {
           description:
             "Erleben Sie atemberaubende Natur zu Fuß oder per Fahrrad: Oasenpfade, felsige Canyons und weite Salzebenen.",
           iconName: "Bike",
-          image: "/images/trekking-cycling.jpg",
+          image: "/images/services-trekking-cycling.jpg",
           alt: "Wanderer und Radfahrer in der Palmenoase von Tozeur.",
           features: [
             "Fahrradverleih & geführte Routen durch die Palmeraie",
@@ -1560,7 +1560,7 @@ export const translations: Record<Locale, Translations> = {
           description:
             "Exklusive Candle-Light-Dinner in den Dünen, Firmenseminare, private Feiern und maßgeschneiderte Erlebnisse.",
           iconName: "Sparkles",
-          image: "/images/events-banquet.jpg",
+          image: "/images/services-events-custom.jpg",
           alt: "Exklusives Wüstenbankett unter den Sternen in Tozeur.",
           features: [
             "VIP-Dinner bei Kerzenschein in den Saharadünen",
@@ -1577,7 +1577,7 @@ export const translations: Record<Locale, Translations> = {
           description:
             "Verbringen Sie eine magische Nacht in einem komfortablen Beduinencamp unter einem der klarsten Nachthimmel der Welt.",
           iconName: "Moon",
-          image: "/images/gallery-sunset.jpg",
+          image: "/images/services-stargazing-bivouac.jpg",
           alt: "Romantisches Wüstencamp in der Abenddämmerung mit Laternen.",
           features: [
             "Komfortable Nomadenzelte mit hochwertiger Ausstattung",
@@ -1594,7 +1594,7 @@ export const translations: Record<Locale, Translations> = {
           description:
             "Erleben Sie die Deglet Nour Dattelernte, traditionelle Bewässerung und ein authentisches Berber-Mittagessen direkt in der Oase.",
           iconName: "Apple",
-          image: "/images/palmeraie.jpg",
+          image: "/images/services-oasis-gastronomy.jpg",
           alt: "Üppiger Palmenhain mit traditionellen Speisen und Datteln.",
           features: [
             "Verkostung feinster Deglet Nour Datteln & Palmensirup",
@@ -1963,7 +1963,7 @@ export const translations: Record<Locale, Translations> = {
           description:
             "Esplora palmeti lussureggianti, oasi naturali e canyon montani nel sud della Tunisia come Chebika, Tamerza e Midès.",
           iconName: "Palmtree",
-          image: "/images/palmeraie.jpg",
+          image: "/images/services-oasis-mountain.jpg",
           alt: "Paesaggio del palmeto di Tozeur e dell'oasi di Chebika.",
           features: [
             "Cascate e sorgenti naturali di Chebika e Tamerza",
@@ -1980,7 +1980,7 @@ export const translations: Record<Locale, Translations> = {
           description:
             "Vivi il Sahara con safari in 4x4 sulle dune di Ong Jmel, tramonti mozzafiato e suggestivi accampamenti sotto le stelle.",
           iconName: "Sun",
-          image: "/images/desert-4x4.jpg",
+          image: "/images/services-desert-adventures.jpg",
           alt: "Fuoristrada 4x4 sulle dune dorate del deserto di Tozeur.",
           features: [
             "Emozioni in 4x4 sulle dune e nei set di Ong Jmel",
@@ -1997,7 +1997,7 @@ export const translations: Record<Locale, Translations> = {
           description:
             "Scopri l'architettura in mattoni d'argilla di Ouled El Hadef, i vicoli storici, la ceramica e l'eredità millenaria di Tozeur.",
           iconName: "Landmark",
-          image: "/images/medina-culture.jpg",
+          image: "/images/services-culture-heritage.jpg",
           alt: "Dettagli architettonici in mattoni nella medina storica di Tozeur.",
           features: [
             "Visita guidata della medina trecentesca di Ouled El Hadef",
@@ -2014,7 +2014,7 @@ export const translations: Record<Locale, Translations> = {
           description:
             "Attraversa paesaggi straordinari a piedi o in bicicletta: sentieri dell'oasi, canyon rocciosi e miraggi di Chott el Djerid.",
           iconName: "Bike",
-          image: "/images/trekking-cycling.jpg",
+          image: "/images/services-trekking-cycling.jpg",
           alt: "Escursionisti e ciclisti tra i sentieri del palmeto di Tozeur.",
           features: [
             "Noleggio bici e itinerari guidati nel palmeto",
@@ -2031,7 +2031,7 @@ export const translations: Record<Locale, Translations> = {
           description:
             "Banchetti privati a lume di candela tra le dune, ritiri aziendali, celebrazioni speciali e soggiorni interamente personalizzati.",
           iconName: "Sparkles",
-          image: "/images/events-banquet.jpg",
+          image: "/images/services-events-custom.jpg",
           alt: "Banchetto esclusivo sotto le stelle nelle dune di Tozeur.",
           features: [
             "Cene VIP a lume di candela nel deserto sahariano",
@@ -2048,7 +2048,7 @@ export const translations: Record<Locale, Translations> = {
           description:
             "Trascorri una notte magica in un accampamento beduino sotto uno dei cieli più limpidi del mondo con musica e tè attorno al fuoco.",
           iconName: "Moon",
-          image: "/images/gallery-sunset.jpg",
+          image: "/images/services-stargazing-bivouac.jpg",
           alt: "Accampamento nel deserto al crepuscolo con lanterne.",
           features: [
             "Tende nomadi raffinate con il massimo del comfort",
@@ -2065,7 +2065,7 @@ export const translations: Record<Locale, Translations> = {
           description:
             "Partecipa alla raccolta dei datteri Deglet Nour, scopri l'irrigazione millenaria e assapora un pranzo berbero autentico.",
           iconName: "Apple",
-          image: "/images/palmeraie.jpg",
+          image: "/images/services-oasis-gastronomy.jpg",
           alt: "Tavola tradizionale imbandita con datteri e specialità dell'oasi.",
           features: [
             "Degustazione di datteri Deglet Nour e nettare di palma",

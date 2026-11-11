@@ -36,7 +36,7 @@ export const servicesData: ServiceItem[] = [
     description:
       "Explore beautiful palm groves, natural oases, mountain landscapes, and hidden gems across southern Tunisia including Chebika, Tamerza, and Midès.",
     iconName: "Palmtree",
-    image: "/images/palmeraie.jpg",
+    image: "/images/services-oasis-mountain.jpg",
     alt: "Scenic landscape of Tozeur palm groves and mountain oasis canyon at Chebika with lush date palms and desert cliffs.",
     features: [
       "Chebika & Tamerza mountain waterfalls",
@@ -53,7 +53,7 @@ export const servicesData: ServiceItem[] = [
     description:
       "Experience the Sahara through unforgettable desert excursions, sunset 4x4 safaris across rolling dunes, and atmospheric Saharan night camps.",
     iconName: "Sun",
-    image: "/images/desert-4x4.jpeg",
+    image: "/images/services-desert-adventures.jpg",
     alt: "Four-by-four desert safari expedition vehicle traversing sweeping golden Sahara sand dunes in Tozeur at sunset.",
     features: [
       "4x4 dune bashing & Ong Jmel expedition",
@@ -70,7 +70,7 @@ export const servicesData: ServiceItem[] = [
     description:
       "Discover traditional brick architecture, historic Medina alleyways, artisanal pottery, date weaving, and the rich thousand-year heritage of Tozeur.",
     iconName: "Landmark",
-    image: "/images/medina-culture.jpg",
+    image: "/images/services-culture-heritage.jpg",
     alt: "Close-up architectural detail of historical Tozeur Medina Ouled El Hadef with geometric clay brick patterns.",
     features: [
       "Guided tour of Ouled El Hadef 14th-century medina",
@@ -87,7 +87,7 @@ export const servicesData: ServiceItem[] = [
     description:
       "Explore breathtaking landscapes through outdoor adventures, guided hiking trails, rocky canyon trekking, and invigorating oasis cycling tours.",
     iconName: "Bike",
-    image: "/images/trekking-cycling.jpg",
+    image: "/images/services-trekking-cycling.jpg",
     alt: "Adventurous travelers trekking across desert hills and cycling along palm-lined oasis paths in Tozeur, Tunisia.",
     features: [
       "Palmeraie bike rentals & guided routes",
@@ -104,7 +104,7 @@ export const servicesData: ServiceItem[] = [
     description:
       "Enjoy personalized group experiences, corporate retreats, cultural celebrations, private romantic dinners, and tailored activities specifically organized for you.",
     iconName: "Sparkles",
-    image: "/images/events-banquet.jpg",
+    image: "/images/services-events-custom.jpg",
     alt: "Exclusive luxury candlelit desert banquet setup under a starry sky in the dunes of Tozeur with traditional carpets.",
     features: [
       "Bespoke VIP Saharan candlelit dinners",
@@ -121,7 +121,7 @@ export const servicesData: ServiceItem[] = [
     description:
       "Spend a magical Saharan night in a luxury nomad bivouac beneath the star-strewn desert sky, with campfire Berber music and storytelling.",
     iconName: "Moon",
-    image: "/images/gallery-sunset.jpg",
+    image: "/images/services-stargazing-bivouac.jpg",
     alt: "Romantic Saharan desert luxury camp at dusk with tents and glowing lanterns in the Tozeur desert dunes.",
     features: [
       "Private luxury Bedouin tented encampment",
@@ -138,7 +138,7 @@ export const servicesData: ServiceItem[] = [
     description:
       "Immerse in ancient culinary heritage: harvest Deglet Nour dates, discover oasis irrigation, and enjoy authentic Berber farm-to-table lunch.",
     iconName: "Apple",
-    image: "/images/palmeraie.jpg",
+    image: "/images/services-oasis-gastronomy.jpg",
     alt: "Lush Tozeur date palm grove with artisanal culinary spread and fresh dates.",
     features: [
       "Deglet Nour date harvest & nectar tasting",

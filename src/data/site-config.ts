@@ -38,9 +38,9 @@ export const siteConfig: SiteConfig = {
   mapsEmbedUrl: "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3310.9290375402056!2d8.1319887!3d33.9172259!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1257ebf3dcd148a7%3A0xb29e8e4e573bb94a!2sTOZEUR%20EXPERIENCE!5e0!3m2!1sfr!2stn!4v1794404933268!5m2!1sfr!2stn",
   instagramHandle: "@tozeur.experience",
   socials: {
-    instagram: "https://instagram.com/tozeur.experience",
-    facebook: "https://facebook.com/tozeur.experience",
-    tiktok: "https://tiktok.com/@tozeur.experience",
+    instagram: "https://www.instagram.com/tozeur.experience/",
+    facebook: "https://www.facebook.com/profile.php?id=61582801710765&locale=ar_AR",
+    tiktok: "https://www.tiktok.com/@tozeur.experience?is_from_webapp=1&sender_device=pc",
     whatsapp: "https://wa.me/21654467632",
   },
   navItems: [
